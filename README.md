@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sasi Kiran Nallapu</h1>
-<h3 align="center">A passionate full stack developer from india</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
+<br>
 # 💫 About Me:
 - 🔭 I’m currently working on **AWS Serverless Projects**<br>
 - 🌱 I’m currently learning **Java Full Stack Development With MicroServices**<br>
