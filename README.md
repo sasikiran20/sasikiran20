@@ -1,5 +1,14 @@
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sasi Kiran Nallapu</h1>
+<h3 align="center">A passionate full stack developer from india</h3>
 # 💫 About Me:
-🔭 I’m currently working on AWS Serverless Projects<br>🌱 I’m currently learning Java Full Stack Development With MicroServices<br>👯 I’m looking to collaborate on AWS Projects<br>🤝 I’m looking for help with AI & ML<br>👨‍💻 All of my projects are available at https://github.com/sasikiran20<br>💬 Ask me about React.js, Django & AWS<br>📫 How to reach me nskiran0369@gmail.com <br>⚡ Fun fact Kudremukh is a popular destination for trekking enthusiasts. The trek to the peak is challenging and takes around 6-7 hours to complete, but the views from the top are worth the effort.<br>
+- 🔭 I’m currently working on **AWS Serverless Projects**<br>
+- 🌱 I’m currently learning **Java Full Stack Development With MicroServices**<br>
+- 👯 I’m looking to collaborate on **AWS Projects**<br>
+- 🤝 I’m looking for help with **AI & ML**<br>
+- 👨‍💻 All of my projects are available at https://github.com/sasikiran20<br>
+- 💬 Ask me about **React.js, Django & AWS**<br>
+- 📫 How to reach me nskiran0369@gmail.com <br>
+- ⚡ Fun fact Kudremukh is a popular destination for trekking enthusiasts. The trek to the peak is challenging and takes around 6-7 hours to complete, but the views from the top are worth the effort.<br>
 
 
 ## 🌐 Socials:
