@@ -1,5 +1,6 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sasi Kiran Nallapu</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+everyone!!!;My+name's+Sasi+Kiran.;I'm+a+full-stack+developer+from+India." alt="typing intro">
+</p>
 
 - 🔭 I’m currently working on **AWS Serverless Projects**
 
