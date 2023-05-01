@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+everyone!!!;My+name's+Sasi+Kiran.;I'm+a+full-stack+developer+from+India." alt="typing intro">
+<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+everyone!!!;My+name's+Sasi+Kiran+Nallapu.;I'm+a+full-stack+developer." alt="typing intro">
 </p>
 
 - 🔭 I’m currently working on **AWS Serverless Projects**
