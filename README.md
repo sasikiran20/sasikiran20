@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **React.js, Django & AWS**
 
-- 📫 How to reach me **nskiran0369@gmail.com**
+- 📫 How to reach me **2000031879cse@gmail.com**
 
 - ⚡ Fun fact **Kudremukh is a popular destination for trekking enthusiasts. The trek to the peak is challenging and takes around 6-7 hours to complete, but the views from the top are worth the effort.**
 
