@@ -23,8 +23,6 @@
 
 - 📫 How to reach me **sasikirannallapu@gmail.com**
 
-- ⚡ Fun fact **Kudremukh is a popular destination for trekking enthusiasts. The trek to the peak is challenging and takes around 6-7 hours to complete, but the views from the top are worth the effort.**
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sasikirannallapu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sasikirannallapu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sasi_kiran_20) 
